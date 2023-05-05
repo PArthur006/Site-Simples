@@ -24,6 +24,8 @@ li {
 
 .list {
     list-style: square;
+}
+
 .btn {
     position: absolute;
     top: 20px;
