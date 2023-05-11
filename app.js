@@ -3,7 +3,7 @@
 const switcher = document.querySelector('.btn');
 
 switcher.addEventListener('click', function() {
-    document.body.classList.toogle('dark-theme')
+    document.body.classList.toogle("dark-theme")
 
     var className = document.body.className;
     if(className == "light-theme") {

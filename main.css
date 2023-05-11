@@ -27,7 +27,7 @@ li {
 }
 
 .btn {
-    position: absolute;
+    position: relative;
     top: 20px;
     left: 250px;
     height: 50px;
